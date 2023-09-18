@@ -1,0 +1,15 @@
+<style type="text/css">
+		.big {
+				font: 40px;
+		}
+		.color {
+				color: darkred;
+		}
+		.uppercase {	
+				text-transform: uppercase;
+		}
+		h1 span{
+				color: violet;
+		}
+
+	</style>
