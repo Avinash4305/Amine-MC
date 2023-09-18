@@ -1,0 +1,12 @@
+body {
+		margin: 0;
+}
+header {
+	text-align: center;
+	background-color:#f4e9f1;
+
+}
+header h1 {
+		color: black;
+		font-family: sans-serif;
+	}
